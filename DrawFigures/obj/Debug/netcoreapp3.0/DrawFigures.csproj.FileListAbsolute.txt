@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.exe
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.dll
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\bin\Debug\netcoreapp3.0\DrawFigures.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\obj\Debug\netcoreapp3.0\DrawFigures.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\obj\Debug\netcoreapp3.0\DrawFigures.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\obj\Debug\netcoreapp3.0\DrawFigures.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\obj\Debug\netcoreapp3.0\DrawFigures.dll
+C:\Users\Denis\Desktop\Новая папка C#\DrawFigures\DrawFigures\obj\Debug\netcoreapp3.0\DrawFigures.pdb
